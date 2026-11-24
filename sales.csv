@@ -1,0 +1,12 @@
+InvoiceID,Branch,City,Gender,CustomerType,ProductLine,UnitPrice,Quantity,Tax,Total,Date,T
+ime,Payment,Rating
+750-67-8428,A,Delhi,Female,Member,Health & beauty,74.69,7,26.1415,548.9715,2023-01-
+05,13:08,Cash,9.1
+226-31-3081,B,Mumbai,Male,Normal,Electronic accessories,15.28,5,3.82,80.22,2023-01-
+07,17:30,Card,7.4
+631-41-3108,A,Delhi,Female,Member,Home & lifestyle,46.33,2,4.633,97.293,2023-01-
+10,10:30,Cash,8.2
+123-19-1176,C,Bangalore,Male,Member,Food & beverages,58.22,3,8.733,183.093,2023-01-
+12,13:45,UPI,6.7
+373-73-7910,B,Mumbai,Female,Normal,Fashion accessories,86.31,6,25.893,544.773,2023-01-
+15,18:20,Cash,9.0
